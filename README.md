@@ -14,6 +14,29 @@ and reports safety hazards along the planned route. Routes can be saved to and l
 
 ---
 
+## Screenshots
+
+### Main Screen
+<img src="docs/images/main_screen.png" alt="Main screen of the route planner" width="700">
+
+### Route Planning and Conditions
+
+| Route with traffic | Route with traffic and weather conditions |
+|---|---|
+| <img src="docs/images/route_with_traffic.png" alt="Route with traffic" width="400"> | <img src="docs/images/route_with_traffic_and_conditions.png" alt="Route with traffic and weather conditions" width="400"> |
+
+| Route with road obstacles | Cleared route |
+|---|---|
+| <img src="docs/images/route_with_obstacle.png" alt="Route rerouted around obstacles" width="400"> | <img src="docs/images/clear_route.png" alt="Map after clearing the route" width="400"> |
+
+### Saving and Loading Routes
+
+| Save route | Load route |
+|---|---|
+| <img src="docs/images/save.png" alt="Saving a route" width="400"> | <img src="docs/images/load.png" alt="Loading a saved route" width="400"> |
+
+---
+
 ## Prerequisites
 
 | Requirement | Version |
